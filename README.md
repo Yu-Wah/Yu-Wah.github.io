@@ -1,5 +1,5 @@
 # Yu-Wah.github.io
-<img src="https://github.com/user-attachments/assets/3200218b-d05b-4cff-85dc-7da9672102b4" align="top-right" width="40%"/>
+<img src="https://github.com/user-attachments/assets/3200218b-d05b-4cff-85dc-7da9672102b4" align="top-right" width="25%"/>
 
 # _YU WAH_
 > _2nd year student_<br />
@@ -11,40 +11,20 @@
 * studies Mathematics           - University of Mandalay, Myanmar
 
 # Experience
-* Summer Intern - New York State Rabies Screening Laboratory
-* Undergraduate Research Opportunity Intern - Environmental Health Sciences Center, Massachusetts Institute of Technology
-* Urban Vehicle Design Competition - Team communications and logistics officer, Massachusetts Institute of Technology
-* Research Assistant - Wellcome Laboratory, Johns Hopkins University 
-* Post Doctoral Fellow - McArdle Laboratory, University of Wisconsin at Madison
-* Project Head - Faculty of Pharmacy, Payap University
-* Acting Dean - Faculty of Science, Payap University
-* Software Development Lead - Computer-Assisted Text Processing Center, Thailand Bible Society
-* Director - United Bible Society Asia-Pacific Regional Computer-Assisted Text Processing Center
-* Office Manager - Martin Kehoe Law Office - Guilderland, NY
-* Informatics Lab Manager - Indiana University - South Bend
-* Computer Science Instructor - Payap University
-* IT Director - Payap University
-* Praceptor Emeritus - Payap University
+* presenting in the international conference
+* volunteer in International College Student Union
 
 # Interests
-* Applied machine learning, data science, modeling and forecasting to assist decision making
-* Natural language processing to automate prepublication editing support
-* Web and online community development and e-business
-* Blended and online education for higher education and livelong learning
-* Bible study and its life applications
-
-# Project experience with Languages
-* Computer programming: Fortran 4, 6809 Assembler, C, MS BASIC, Forth, Z80 Assembler, Pascal, Lisp, C++, AWK, SNOBOL, APL, troff, SPITBOL, Perl, SmallTalk, Icon, Fortran 77, TeX, Metafont, XLISP, Visual Basic, SQL, Python, LaTeX, VBA, Ruby, Java, PHP, Ruby on Rails, R, JavaScript, Angular JS, Node JS, NoSQL, Bender, Julia
-* Human: English, Thai, French, German
-* OS Command shells: CP/M, UNIX, MSDOS, MS Windows, OsX, Linux, KSH, BASH, SSH, Ardunio, Android
-* Version control: RCS, CVS, Subversion, Bazaar, GIT
-* Open standards: HTML, CSS, XML, RSS, GPX, Unicode, ISO9001, ISO29110
+* UI/UX designs
+* developing in games/app/website
+* Maching Learning
+  
 
 # Contact Info
-* [Web Page](https://rbatzing.github.io)
-* [LinkedIn](https://www.linkedin.com/in/robert-batzinger)
-* [Twitter](https://twitter.com/rbatz)
-* [Google Scholar](https://scholar.google.com/citations?user=LYSacdYAAAAJ&hl=en)
-* [Research Gate](https://www.researchgate.net/profile/Robert-Batzinger)
+* [Web Page](https://Yu-Wah.github.io)
+* [LinkedIn](https://www.linkedin.com/in/yu-wah-b56231216)
+* [Twitter](https://twitter.com/@YuWah999)
+
+  
 
 
