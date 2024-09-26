@@ -1,7 +1,7 @@
 # Yu-Wah.github.io
 <img src="![final-01](https://github.com/user-attachments/assets/fc6f356a-67c8-461d-964a-b04fbf637a87)
 
-" align="right" width="1%"/>
+" align="right" width="-10%"/>
 
 # _Robert P Batzinger_
 > _Praeceptor Emeritus_<br />
