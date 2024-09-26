@@ -1,5 +1,5 @@
 # Yu-Wah.github.io
-<img src="https://github.com/user-attachments/assets/3200218b-d05b-4cff-85dc-7da9672102b4" align="right" width="10%"/>
+<img src="https://github.com/user-attachments/assets/3200218b-d05b-4cff-85dc-7da9672102b4" align="top-right" width="5%"/>
 
 # _Robert P Batzinger_
 > _Praeceptor Emeritus_<br />
