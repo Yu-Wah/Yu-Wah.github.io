@@ -1,19 +1,14 @@
 # Yu-Wah.github.io
-<img src="https://github.com/user-attachments/assets/3200218b-d05b-4cff-85dc-7da9672102b4" align="top-right" width="10%"/>
+<img src="https://github.com/user-attachments/assets/3200218b-d05b-4cff-85dc-7da9672102b4" align="top-right" width="40%"/>
 
 # _YU WAH_
-> _Praeceptor Emeritus_<br />
-> Payap University, Department of Computer Science<br />
-> Amphur Muang, Chiang Mai 50000, Thailand<br />
-
-> Computer Solutions Developer with decades of experience in Data Science and Big Data Analytics, Natural language Processing, Document Publishing Systems, 
-and Web Community Development as well as mutagenic and carcinogenic activities of anthelmintics
+> _2nd year student_<br />
+> Payap University, Department of IT<br />
+>  Chiang Mai, Thailand<br />
 
 # Education
-* SB Chemistry - Massachusetts Institute of Technology
-* PhD Pathobiology - Johns Hopkins University
-* NIH Post Doctoral Fellow - University of Wisconsin at Madison
-* MS Applied Mathematics and Computer Science - Indiana University - South Bend
+* studies Information Technology- Payap University, Chiang Mai, Thailand
+* studies Mathematics           - University of Mandalay, Myanmar
 
 # Experience
 * Summer Intern - New York State Rabies Screening Laboratory
