@@ -1,7 +1,7 @@
 # Yu-Wah.github.io
 <img src="https://github.com/user-attachments/assets/3200218b-d05b-4cff-85dc-7da9672102b4" align="top-right" width="25%"/>
 
-# _YU WAH 
+# YU WAH 
 > _2nd year student_<br />
 > Payap University, Department of IT<br />
 >  Chiang Mai, Thailand<br />
